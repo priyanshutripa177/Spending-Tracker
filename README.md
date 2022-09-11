@@ -1,8 +1,9 @@
-# output
+# output ->
 
-# About Project
+# About Project :
 The Spending Tracker in Java is a project for the management of personal Daily Basis expenditures. The whole system is developed in Apache Netbeans IDE. The system have MySql as database support. The system supports all the features that are required here in this system. We can check category wise expenses.
 
+# About 
 This is the Main Frame when we open the Spending Tracker (Window based Application). It will open Basically this will show
 20 days recently Expenses with Total Expends. It also show the Catagory wise expenses with respect 
 to choosing date.
