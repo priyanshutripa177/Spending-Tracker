@@ -1,4 +1,6 @@
+# Sample output
 # output
+# what is Spending Tracker?
 
 This is the Main Frame when we open the Spending Tracker Desktop Application. It will open Basically this will show
 20 days recently Expenses with Total Expends. It also show the Catagory wise expenses with respect 
